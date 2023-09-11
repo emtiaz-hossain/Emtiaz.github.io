@@ -2,4 +2,4 @@
 <br>
 Name = Md Emtiaz Hossain Shimanta
 <br>
-email = emtiazhossainshimanta@gmail.com
+email = emtiaz.shimanta@gmail.com
